@@ -6,7 +6,8 @@
 <div align="center">
     <h2>体验极速下载，从云析 Just Do It 开始！</h2>
     <h4>百度网盘解析 · dlink 直链提取 · 内置多线程下载器 · 一站式 Just Do It！</h4>
-  <p align="center"><a href="https://yunxicc.com">官网</a> ｜ <a href="https://yunxicc.com/parse-records">解析记录</a> ｜ <a href="https://github.com/">GitHub</a></p>
+  <p align="center"></p>
+    <br>
 </div>
 
 <h3>项目简介 / Introduction</h3>
